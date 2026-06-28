@@ -28,7 +28,6 @@ To practice building a multi-page-style Excel dashboard from a large real-world 
 
 ## Files in This Repository
 - `Superstore_Sales_Dashboard.xlsx` — full workbook (working sheet with raw data, pivot tables, dashboard)
-- `dashboard_screenshot.png` — preview image of the final dashboard
 
 ## How to View
 Download the `.xlsx` file and open in Microsoft Excel to interact with the Pivot Tables and charts yourself.
