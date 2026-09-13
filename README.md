@@ -1,14 +1,14 @@
-# Superstore Sales Dashboard — Excel
+# Superstore Sales Dashboard, Excel
 
 ## Overview
-An interactive Excel dashboard analyzing 4 years (2015-2018) of Superstore sales data — breaking down performance by region, segment, product category and time trend.
+An interactive Excel dashboard analyzing 4 years (2015-2018) of Superstore sales data, breaking down performance by region, segment, product category and time trend.
 
 ## Objective
-To practice building a multi-page-style Excel dashboard from a large real-world retail dataset, using Pivot Tables as the engine behind every chart and KPI.
+To practice building a multi page style Excel dashboard from a large real-world retail dataset, using Pivot Tables as the engine behind every chart and KPI.
 
 ## Tools & Skills Used
 - **Pivot Tables** — aggregating ~9,800 rows of transaction-level data into clean summaries
-- **KPI Card** — Total Sales figure displayed prominently for at-a-glance reporting
+- **KPI Card** — Total Sales figure displayed prominently for at a glance reporting
 - **Charts** — bar chart (regional comparison), donut charts (segment & category breakdown), trend line (yearly sales)
 - **Data Cleaning** — removed incorrect Grand Total values that were appearing inside chart visuals
 - **Consistent color theming** across all visuals for a professional look
@@ -22,7 +22,7 @@ To practice building a multi-page-style Excel dashboard from a large real-world 
 
 ## Key Insights
 - The West region generated the highest regional sales, followed closely by the East
-- Consumer segment contributed roughly half of total revenue — the single largest segment
+- Consumer segment contributed roughly half of total revenue, the single largest segment
 - Technology and Office Supplies categories performed close to evenly, with Furniture slightly behind
 - Sales grew steadily year over year, with the sharpest increase in the most recent period
 
